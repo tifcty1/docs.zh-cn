@@ -108,7 +108,7 @@ macOS 上的 .NET Core 1.x 要求使用 OpenSSL 工具包的加密库。 .NET Co
 
 ### <a name="support-for-net-standard-20"></a>支持 .NET Standard 2.0
 
-.NET Standard 定义了一组版本化 API，这些 API 必须可用于符合相应 Standard 版本要求的 .NET 实现代码。 .NET Standard 面向库开发者。 旨在保证功能对每个 .NET 实现代码中定目标到 .NET Standard 版本的库可用。 .NET Core 1.x 支持 .NET Standard 版本 1.6；.NET Core 2.0 支持最新版 .NET Core 2.0。 有关详细信息，请参阅 [.NET Standard](../../standard/net-standard.md)。
+.NET Standard 定义了一组版本化 API，这些 API 必须可用于符合相应 Standard 版本要求的 .NET 实现代码。 .NET Standard 面向库开发者。 旨在保证功能对每个 .NET 实现代码中定目标到 .NET Standard 版本的库可用。 .NET Core 1.x 支持 .NET Standard 版本 1.6；.NET Core 2.0 支持最新版 .NET Standard 2.0。 有关详细信息，请参阅 [.NET Standard](../../standard/net-standard.md)。
 
 .NET Standard 2.0 比 .NET Standard 1.6 多包含 20,000 多个 API。 此扩展的外围应用的大部分来自于，将 .NET Framework 和 Xamarin 的通用 API 合并到 .NET Standard。
 
